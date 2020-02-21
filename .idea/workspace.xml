@@ -2,46 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="414d9df5-9951-4658-a1ca-601fad35d897" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/aquanote-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/leanna.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/octopus-rubescens.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/ryan.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/notes.react.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/fontawesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/fontawesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/fontawesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/fontawesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/fontawesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/fontawesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/fontawesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/vendor/fontawesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Resources/views/main/homepage.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppBundle/Controller/MainController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/aqua_note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aqua_note.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/AppKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/AppKernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/config_dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/parameters.yml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/routing.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/notes.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/notes.react.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +74,9 @@
       <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
       <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-markdown-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-acl" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Y4bL8Q1x0rfLx6ARurOhRMEhvy" />
@@ -133,7 +112,13 @@
       <option name="presentableId" value="Default" />
       <updated>1582204754876</updated>
       <workItem from="1582204756071" duration="306000" />
-      <workItem from="1582205093531" duration="8159000" />
+      <workItem from="1582205093531" duration="8249000" />
+      <workItem from="1582215784768" duration="76000" />
+      <workItem from="1582271624488" duration="7898000" />
+      <workItem from="1582282574153" duration="1117000" />
+      <workItem from="1582283931529" duration="272000" />
+      <workItem from="1582284226245" duration="90000" />
+      <workItem from="1582284354965" duration="2863000" />
     </task>
     <servers />
   </component>
@@ -145,18 +130,18 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="879" y="385" key="#Custom_Plugin_Repositories/2560.0.3840.2160/0.0.2560.1440@0.0.2560.1440" timestamp="1582204901372" />
-    <state x="966" y="543" key="NewPhpClassDialog" timestamp="1582206378743">
+    <state x="966" y="543" key="NewPhpClassDialog" timestamp="1582287409249">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="966" y="543" key="NewPhpClassDialog/2560.0.3840.2160/0.0.2560.1440@0.0.2560.1440" timestamp="1582206378743" />
+    <state x="966" y="543" key="NewPhpClassDialog/2560.0.3840.2160/0.0.2560.1440@0.0.2560.1440" timestamp="1582287409249" />
     <state x="781" y="359" key="SettingsEditor" timestamp="1582205458864">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="781" y="359" key="SettingsEditor/2560.0.3840.2160/0.0.2560.1440@0.0.2560.1440" timestamp="1582205458864" />
-    <state x="957" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1582205094844">
+    <state x="957" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1582271625708">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="957" y="552" key="com.intellij.ide.util.TipDialog/2560.0.3840.2160/0.0.2560.1440@0.0.2560.1440" timestamp="1582205094844" />
+    <state x="957" y="552" key="com.intellij.ide.util.TipDialog/2560.0.3840.2160/0.0.2560.1440@0.0.2560.1440" timestamp="1582271625708" />
     <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1582205622579">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
